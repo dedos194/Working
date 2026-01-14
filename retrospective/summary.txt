@@ -1,0 +1,7 @@
+G3: I resolved the merge conflict by manually fixing the README file and committing to the corrected version.
+
+C1. Updated text in first HTML file for improved clarity.
+
+C2. Modifed HTML for second file add and adjusting tags.
+
+C3. Corrected any minor errors or finishing adjustments.
